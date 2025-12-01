@@ -40,44 +40,6 @@ body {
 .dropdown-content a:hover { background-color: #d0e1e5; }
 .dropdown:hover .dropdown-content { display: block; }
 
-/* DESKTOP STYLING */
-@media (min-width: 769px) {
-  .about-content {
-    flex-direction: row; /* Image + text side by side */
-    align-items: flex-start;
-    gap: 40px;
-    text-align: left;
-  }
-  
-  .about-section, .contact-section {
-    width: 70%; /* increase content width */
-    padding: 60px;
-  }
-
-  .welcome-section h1 {
-    font-size: 48px;
-  }
-
-  .welcome-section .desc {
-    font-size: 20px;
-    max-width: 1000px;
-  }
-
-  .contact-form {
-    width: 60%;
-  }
-
-  .navbar {
-    font-size: 22px;
-    padding: 20px 50px;
-  }
-
-  .dropbtn {
-    font-size: 20px;
-  }
-}
-
-
 /* SECTIONS */
 section { text-align: center; padding: 50px 20px; }
 .welcome-section h1 { font-size: 36px; color: #390d0d; }
@@ -86,8 +48,8 @@ section { text-align: center; padding: 50px 20px; }
 /* ABOUT SECTION */
 .about-section { background: #e6f0f2; border-radius: 12px; padding: 40px; width: 80%; margin: 40px auto; box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
 .about-section h2 { font-size: 30px; margin-bottom: 20px; }
-.about-content { display: flex; flex-direction: row; align-items: flex-start; gap: 20px; }
-.profile-pic { width: 200px; height: 200px; border-radius: 50%; border: 4px solid #390d0d; object-fit: cover; }
+.about-content { display: flex; flex-direction: column; align-items: center; gap: 20px; }
+.profile-pic { width: 150px; height: 150px; border-radius: 50%; border: 4px solid #390d0d; object-fit: cover; }
 .about-content p { font-size: 18px; max-width: 600px; line-height: 1.6; }
 
 /* CONTACT SECTION */
