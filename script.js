@@ -46,7 +46,7 @@ const grade13Marks = {
   "AIMAnsif": { name: "A.I.M. Ansif", marks: 68.5 },
   "V.Mithurshika": { name: "V.Mithurshika", marks: 68.5 },
   "YAkeela": { name: "Y. Akeela", marks: 64.5 },
-  "Gkabilraj": { name: "G.kabilraj", marks: 88 },
+  "Gkabilraj": { name: "G.kabilraj", marks: 62 },
   "RMonisha": { name: "R.Monisha", marks: 57 },
   "KNiluja": { name: "K.Niluja", marks: 56 },
   "SThuvakaran": { name: "S.Thuvakaran", marks: 52.5 },
