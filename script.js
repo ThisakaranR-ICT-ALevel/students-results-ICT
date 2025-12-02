@@ -126,7 +126,7 @@ function searchStudent(grade="12") {
   const html = `
     <p><strong>Name:</strong> ${data.name}</p>
     <p><strong>Marks:</strong> ${marks}</p>
-    <p><strong>Rank:</strong> ${rank} / 26</p>
+    <p><strong>Rank:</strong> ${rank}</p>
     <p><strong>Z-Score:</strong> ${zscore}</p>
     <p><strong>Result:</strong> ${message}</p>
   `;
