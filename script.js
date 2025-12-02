@@ -36,11 +36,37 @@ const grade12Marks = {
 };
 
 const grade13Marks = {
-  "RThisakaran": { name: "R. Thisakaran", marks: 88 },
-  "Kamal": { name: "Kamal", marks: 82 },
-  "Nimal": { name: "Nimal", marks: 70 },
-  "Siva": { name: "Siva", marks: 50 },
-  "Ravi": { name: "Ravi", marks: 60 }
+  "KAkchchaya": { name: "K. Akchchaya", marks: 90.5 },
+  "RHarmish": { name: "R.Harmish", marks: 84.5 },
+  "MHFathima Hasna": { name: "M. H. Fathima Hasna", marks: 83 },
+  "ALathusha": { name: "A.Lathusha", marks: 82 },
+  "AAyasha": { name: "A.Ayasha", marks: 75 },
+  "VNithyakshatha": { name: "V.Nithyakshatha", marks: 72.5 },
+  "MLokithan": { name: "M.Lokithan", marks: 70.5 },
+  "AIMAnsif": { name: "A.I.M. Ansif", marks: 68.5 },
+  "V.Mithurshika": { name: "V.Mithurshika", marks: 68.5 },
+  "YAkeela": { name: "Y. Akeela", marks: 64.5 },
+  "Gkabilraj": { name: "G.kabilraj", marks: 88 },
+  "RMonisha": { name: "R.Monisha", marks: 57 },
+  "KNiluja": { name: "K.Niluja", marks: 56 },
+  "SThuvakaran": { name: "S.Thuvakaran", marks: 52.5 },
+  "Skathirsan": { name: "S.kathirsan", marks: 44.5 },
+  "Gkogulraj": { name: "G.kogulraj", marks: 40.5 },
+  "MRMuddhassir": { name: "M.R.Muddhassir", marks: 35.5 },
+  "SSudarnilavan": { name: "S.Sudarnilavan", marks: 35 },
+  "Sjanurshan": { name: "S.janurshan", marks: 34.5 },
+  "MAAhamath": { name: "M.A.Ahamath", marks: 27 },
+  "AFAfrose": { name: "A. F.AFROSE", marks: 21 },
+  "SThadshayini": { name: "S.Thadshayini", marks: 0 },
+  "AThanusiya": { name: "A.Thanusiya", marks: 0},
+  "SNitharshiny": { name: "S. Nitharshiny", marks: 0 },
+  "YJatheeswar": { name: "Y.Jatheeswar", marks: 0 },
+  "SMakilnilavan": { name: "S.Makilnilavan", marks: 0 },
+  "KJhon": { name: "K.Jhon", marks: 0 },
+  "Musrif": { name: "Musrif", marks: 0 },
+  "IImadh": { name: "I.Imadh", marks: 0 },
+  "TRahna": { name: "T. Rahna", marks: 0 }
+
 };
 
 // FORMAT INPUT NAME
