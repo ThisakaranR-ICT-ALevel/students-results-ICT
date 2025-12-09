@@ -36,36 +36,37 @@ const grade12Marks = {
 };
 
 const grade13Marks = {
-  "KAkchchaya": { name: "K.Akchchaya", marks: 90.5 },
-  "RHarmish": { name: "R.Harmish", marks: 84.5 },
-  "MHFHasna": { name: "M.H.Fathima Hasna", marks: 83 },
-  "ALathusha": { name: "A.Lathusha", marks: 82 },
-  "AAyasha": { name: "A.Ayasha", marks: 75 },
-  "VNithyakshatha": { name: "V.Nithyakshatha", marks: 72.5 },
-  "MLokithan": { name: "M.Lokithan", marks: 70.5 },
-  "AIMAnsif": { name: "A.I.M.Ansif", marks: 68.5 },
-  "VMithurshika": { name: "V.Mithurshika", marks: 68.5 },
-  "YAkeela": { name: "Y.Akeela", marks: 64.5 },
-  "GKabilraj": { name: "G.kabilraj", marks: 62 },
-  "RMonisha": { name: "R.Monisha", marks: 57 },
-  "KNiluja": { name: "K.Niluja", marks: 56 },
-  "SThuvakaran": { name: "S.Thuvakaran", marks: 52.5 },
-  "SKathirsan": { name: "S.kathirsan", marks: 44.5 },
-  "GKogulraj": { name: "G.kogulraj", marks: 40.5 },
-  "MRMuddhassir": { name: "M.R.Muddhassir", marks: 35.5 },
-  "SSudarnilavan": { name: "S.Sudarnilavan", marks: 35 },
-  "SJanurshan": { name: "S.janurshan", marks: 34.5 },
-  "MAAhamath": { name: "M.A.Ahamath", marks: 27 },
-  "AFAfrose": { name: "A.F.AFROSE", marks: 21 },
-  // "SThadshayini": { name: "S.Thadshayini", marks: 0 },
-  // "AThanusiya": { name: "A.Thanusiya", marks: 0},
-  // "SNitharshiny": { name: "S. Nitharshiny", marks: 0 },
-  // "YJatheeswar": { name: "Y.Jatheeswar", marks: 0 },
-  // "SMakilnilavan": { name: "S.Makilnilavan", marks: 0 },
+  "KAkchchaya": { name: "K.Akchchaya", marks: 75.25 },//30
+  "RHarmish": { name: "R.Harmish", marks: 78.25 },//36
+  "MHFHasna": { name: "M.H.Fathima Hasna", marks: 77.5},//36
+  "ALathusha": { name: "A.Lathusha", marks: 79 },//38
+  "AAyasha": { name: "A.Ayasha", marks: 83.5},//46
+  "VNithyakshatha": { name: "V.Nithyakshatha", marks: 80.25},//44
+  "MLokithan": { name: "M.Lokithan", marks: 81.5 },//46
+  "AIMAnsif": { name: "A.I.M.Ansif", marks: 68.25 },//34
+  "VMithurshika": { name: "V.Mithurshika", marks: 81.25 },//47
+  "YAkeela": { name: "Y.Akeela", marks: 71.25 },//39
+  "GKabilraj": { name: "G.kabilraj", marks: 74 },//43
+  "RMonisha": { name: "R.Monisha", marks: 61.5 },//33
+  "KNiluja": { name: "K.Niluja", marks: 57},//29
+  "SThuvakaran": { name: "S.Thuvakaran", marks: 70.25},//44
+  "SKathirsan": { name: "S.kathirsan", marks: 60.25 },//38
+  "GKogulraj": { name: "G.kogulraj", marks: 50.25 },//30
+  "MRMuddhassir": { name: "M.R.Muddhassir", marks: 43.75 },//26
+  "SSudarnilavan": { name: "S.Sudarnilavan", marks: 51.5 },//34
+  //"SJanurshan": { name: "S.Janurshan", marks: 34.5 },
+  "MAAhamath": { name: "M.A.Ahamath", marks: 32.5}//19
+  // "AFAfrose": { name: "A.F.AFROSE", marks: 21 },
+  // "SThadshayini": { name: "S.Thadshayini", marks: 0 },23
+  // "AThanusiya": { name: "A.Thanusiya", marks: 0},23
+  // "SNitharshiny": { name: "S. Nitharshiny", marks: 0 },29
+  // "YJatheeswar": { name: "Y.Jatheeswar", marks: 0 },36
+  // "SMakilnilavan": { name: "S.Makilnilavan", marks: 0 },46
   // "KJhon": { name: "K.Jhon", marks: 0 },
-  // "Musrif": { name: "Musrif", marks: 0 },
-  // "IImadh": { name: "I.Imadh", marks: 0 },
-  // "TRahna": { name: "T. Rahna", marks: 0 }
+  // "Musrif": { name: "Musrif", marks: 0 },34
+  // "IImadh": { name: "I.Imadh", marks: 0 },33
+  // "TRahna": { name: "T. Rahna", marks: 0 }28
+  //thuvaraka //30
 
 };
 
