@@ -86,15 +86,14 @@ function calculateZScore(marks, gradeMarks) {
 
 // GET RESULT MESSAGE
 function getMessage(marks) {
-  if (marks >= 85) return "Excellent : A+";
-  if (marks >= 80) return "Great : A";
-  if (marks >= 75) return "Great : A-";
-  if (marks >= 70) return "Good : B+";
-  if (marks >= 65) return "Good : B";
-  if (marks >= 60) return "Average : B-";
+  if (marks >= 80) return "Excellent : A+";
+  if (marks >= 75) return "Great : A";
+  if (marks >= 71) return "Great : A-";
+  if (marks >= 65) return "Good : B+";
+  if (marks >= 61) return "Good : B";
   if (marks >= 55) return "Average : C+";
-  if (marks >= 50) return "Average: C";
-  if (marks >= 45) return "Poor: C-";
+  if (marks >= 51) return "Average : C";
+  if (marks >= 45) return "Average: C-";
   if (marks >= 35) return "Poor : S";
   if (marks < 35) return "Need to Improve";
   return "Poor";
