@@ -54,8 +54,8 @@ const grade13Marks = {
   "GKogulraj": { name: "G.kogulraj", marks: 50.25 },//30
   "MRMuddhassir": { name: "M.R.Muddhassir", marks: 43.75 },//26
   "SSudarnilavan": { name: "S.Sudarnilavan", marks: 51.5 },//34
+  "MAAhamath": { name: "M.A.Ahamath", marks: 32.5},//19
   //"SJanurshan": { name: "S.Janurshan", marks: 34.5 },
-  "MAAhamath": { name: "M.A.Ahamath", marks: 32.5}//19
   // "AFAfrose": { name: "A.F.AFROSE", marks: 21 },
   // "SThadshayini": { name: "S.Thadshayini", marks: 0 },23
   // "AThanusiya": { name: "A.Thanusiya", marks: 0},23
